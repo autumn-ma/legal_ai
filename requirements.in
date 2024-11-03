@@ -1,0 +1,8 @@
+fastapi[standard]
+requests
+marqo==3.8.1
+langchain
+pandas
+langchain-openai
+transformers
+torch
